@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    gkour:
+      email: kourgeorge@gmail.com.com
+      name: George Kour
+      password: $2b$12$SrsK65WdgjeFyYrpyBv1UelFaYwBPtSEm52vLh35Bfug.V9.gb0EW
+    jane_doe:
+      email: jane@example.com
+      name: Jane Doe
+      password: hashed_password
+
+cookie:
+  expiry_days: 30
+  key: some_random_key
+  name: some_cookie_name
