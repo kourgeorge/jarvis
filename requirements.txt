@@ -11,7 +11,6 @@ langgraph
 langsmith
 openai
 prompt_sentinel
-protobuf
 pydantic
 python-dotenv
 
