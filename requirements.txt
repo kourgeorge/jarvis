@@ -25,3 +25,4 @@ praw
 playwright
 stackapi
 xmltodict
+google-search-results
