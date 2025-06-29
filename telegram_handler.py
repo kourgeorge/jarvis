@@ -69,7 +69,7 @@ async def main():
 
     # Initialize PersonalAssistant
     assistant = PersonalAssistant(user_id='gkour', llm=llm)
-    assistant.initialize()
+    await assistant.initialize()
 
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     app = ApplicationBuilder().token(token).build()
